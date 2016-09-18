@@ -10,12 +10,17 @@ Note
 ----
 
 * ちょっと触った限り、結構分かりやすい。動かすまでも楽だし
+* しかし不人気である。
+  * 2016/09に４年ぶりで触ろうとしたら、atomのlanguageモードとかダウンロード数120...
+  * 基礎文法最速マスターすら誰も書いてない！
+  * Qiita の [Io](http://qiita.com/tags/Io) とかどれもI/Oについてだ！
 
 Link
 ----
 
-* [Introduction](http://www.iolanguage.com/scm/io/docs/IoGuide.html#Introduction)
-* [日本語Wiki](http://ja.wikipedia.org/wiki/Io_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)
+* [repos](https://github.com/stevedekorte/io)
+* [Introduction](http://iolanguage.org/guide/guide.html)
+* [atom-language-Io](https://github.com/sluke/atom-language-Io)
 
 Author
 ------
